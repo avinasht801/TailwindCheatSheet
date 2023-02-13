@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*This will help you to add any custom fonts in the code*/
+/*@layer base {
+    html{
+        font-family: 'Zeyada', sans-serif;
+    }
+}*/
+
+/* You can use this plugins to declare and set the global nature of the page */
+/*@layer{
+    html {
+        @apply bg-slate-600 text-white text-lg font-bold;
+    }
+}
+ */
